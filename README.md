@@ -20,7 +20,9 @@ The dataset was loaded using pandas as a DataFrame from the file "advertising.cs
 Data Exploration and Preprocessing
 
 1). The shape and descriptive statistics for the dataset were displayed using df.shape and df.describe().
+
 2). A pair plot was created to visualize the relationship between advertising expenditure on TV, Radio, Newspaper, and sales using seaborn.pairplot.
+
 3). Histograms were plotted to observe the distribution of advertising expenditure on TV, Radio, and Newspaper using matplotlib.pyplot.hist.
 
 
